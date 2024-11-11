@@ -13,7 +13,7 @@ public class GitHub : MonoBehaviour
                 Debug.Log("You got a 5"); 
                 continue; 
             } 
-            else if RrandomNumber == 15); 
+            else if RandomNumber == 15); 
             { 
                 Debug.Log("You got a 15"); 
                 break; 
