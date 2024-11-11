@@ -8,12 +8,12 @@ public class GitHub : MonoBehaviour
         while (true) 
         { 
             int RandomNumber = Random.Range(1, 21); 
-            if (RandomNumber == 5) 
+            if (RandomNumber == 5);
             { 
                 Debug.Log("You got a 5"); 
                 continue; 
             } 
-            else if RrandomNumber == 15) 
+            else if RrandomNumber == 15); 
             { 
                 Debug.Log("You got a 15"); 
                 break; 
