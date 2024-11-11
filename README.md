@@ -40,4 +40,4 @@ public class GitHub : MonoBehaviour
         Debug.Log(funnySentence); 
     } 
 }
-مساء الخير جميعاً 🌸
+
