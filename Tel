@@ -1,0 +1,25 @@
+using UnityEngine;
+
+public class MultiplicationTable : MonoBehaviour
+{
+   
+    int Multiply(int A, int B)
+    {
+        return A * B;
+    }
+
+   
+    void Start()
+    {
+        
+        int number = 5; 
+
+        
+        for (int i = 1; i <= 10; i++)
+        {
+            
+            int result = Multiply(number, i);
+            Debug.Log($"{number} x {i} = {result}");
+        }
+    }
+}
